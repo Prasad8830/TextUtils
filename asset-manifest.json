@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text-Utils/static/css/main.229cc958.css",
-    "main.js": "/Text-Utils/static/js/main.b9a0cce4.js",
-    "static/js/453.ed3810f9.chunk.js": "/Text-Utils/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/Text-Utils/index.html",
-    "main.229cc958.css.map": "/Text-Utils/static/css/main.229cc958.css.map",
-    "main.b9a0cce4.js.map": "/Text-Utils/static/js/main.b9a0cce4.js.map",
-    "453.ed3810f9.chunk.js.map": "/Text-Utils/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Prasad8830/reactApp.git/static/css/main.229cc958.css",
+    "main.js": "/Prasad8830/reactApp.git/static/js/main.bc37c1c6.js",
+    "static/js/453.ed3810f9.chunk.js": "/Prasad8830/reactApp.git/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Prasad8830/reactApp.git/index.html",
+    "main.229cc958.css.map": "/Prasad8830/reactApp.git/static/css/main.229cc958.css.map",
+    "main.bc37c1c6.js.map": "/Prasad8830/reactApp.git/static/js/main.bc37c1c6.js.map",
+    "453.ed3810f9.chunk.js.map": "/Prasad8830/reactApp.git/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.229cc958.css",
-    "static/js/main.b9a0cce4.js"
+    "static/js/main.bc37c1c6.js"
   ]
 }
