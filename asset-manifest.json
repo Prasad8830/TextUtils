@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Prasad8830/reactApp.git/static/css/main.229cc958.css",
-    "main.js": "/Prasad8830/reactApp.git/static/js/main.bc37c1c6.js",
-    "static/js/453.ed3810f9.chunk.js": "/Prasad8830/reactApp.git/static/js/453.ed3810f9.chunk.js",
-    "index.html": "/Prasad8830/reactApp.git/index.html",
-    "main.229cc958.css.map": "/Prasad8830/reactApp.git/static/css/main.229cc958.css.map",
-    "main.bc37c1c6.js.map": "/Prasad8830/reactApp.git/static/js/main.bc37c1c6.js.map",
-    "453.ed3810f9.chunk.js.map": "/Prasad8830/reactApp.git/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/Prasad8830/reactApp/static/css/main.229cc958.css",
+    "main.js": "/Prasad8830/reactApp/static/js/main.c694e5ba.js",
+    "static/js/453.ed3810f9.chunk.js": "/Prasad8830/reactApp/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Prasad8830/reactApp/index.html",
+    "main.229cc958.css.map": "/Prasad8830/reactApp/static/css/main.229cc958.css.map",
+    "main.c694e5ba.js.map": "/Prasad8830/reactApp/static/js/main.c694e5ba.js.map",
+    "453.ed3810f9.chunk.js.map": "/Prasad8830/reactApp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.229cc958.css",
-    "static/js/main.bc37c1c6.js"
+    "static/js/main.c694e5ba.js"
   ]
 }
